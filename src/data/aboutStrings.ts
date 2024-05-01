@@ -29,35 +29,41 @@ export const aboutStrings: Translatable<AboutUsData> = {
     carouselTitle: "Members",
     members: [
       {
-        name: "Andrés Leiva",
-        description: "I am a software engineering student who enjoys working within the React, Nest js and Rust ecosystem.",
-        githubUrl: "https://github.com/aleiva17",
-        linkedinUrl: "https://www.linkedin.com/in/aleiva17/"
-      },
-      {
-        name: "Nicolás Espinoza",
-        description: "I have been studying software engineering at the UPC since 2021, so I consider myself a creative and imaginative person.",
-        githubUrl: "https://github.com/EspinozaNaer",
-        linkedinUrl: "https://www.linkedin.com/in/nicol%C3%A1s-espinoza-394b84225/"
+        name: "Alan Galavis",
+        description: "I am a detail oriented, design-minded software engineering student. My goal is to develop functional and scalable software solutions.",
+        githubUrl: "https://github.com/alanegd",
+        linkedinUrl: "https://www.linkedin.com/in/alan-galavis/"
       },
       {
         name: "Andrés Soto",
-        description: "I am a software engineering student at the UPC capable of working under pressure who enjoys to generate solutions using technology.",
+        description: "I am capable of working under pressure and solving problems efficiently.",
         githubUrl: "https://github.com/asotito",
         linkedinUrl: "https://www.linkedin.com/in/andres-soto-0429a127b/"
       },
       {
         name: "Carlo Seminario",
-        description: "I am pursuing a software engineering degree and I consider myself as a person who is responsible,  persevering and capable of working under pressure.",
+        description: "I am capable of identifying and proposing solutions to problems.",
         githubUrl: "https://github.com/CarloLSG",
         linkedinUrl: "https://www.linkedin.com/in/carlo-luca-seminario/"
       },
       {
-        name: "Alan Galavis",
-        description: "I am studying software engineering at UPC and I consider that I am organized, persevering and creative.",
-        githubUrl: "https://github.com/alanegd",
-        linkedinUrl: "https://www.linkedin.com/in/alan-galavis/"
-      }
+        name: "Eric Cuevas",
+        description: "I am a responsible and colaborative person. I have participated in front-end and back-end development projects.",
+        githubUrl: "https://github.com/Ericcuevas03",
+        linkedinUrl: "http://www.linkedin.com/in/ericcuevasrios"
+      },
+      {
+        name: "Lucero Obispo",
+        description: "I consider myself an empathetic, organized and committed person, which allows me to successfully colaborate on team software development projects.",
+        githubUrl: "https://github.com/LuceroObispoRios",
+        linkedinUrl: "http://www.linkedin.com/in/luceroobispo"
+      },
+      {
+        name: "Nicolás Espinoza",
+        description: "I have been studying software engineering at the UPC since 2021. I consider myself a creative and imaginative person.",
+        githubUrl: "https://github.com/EspinozaNaer",
+        linkedinUrl: "https://www.linkedin.com/in/nicol%C3%A1s-espinoza-394b84225/"
+      },
     ]
   },
   es: {
@@ -73,35 +79,41 @@ export const aboutStrings: Translatable<AboutUsData> = {
     carouselTitle: "Miembros",
     members: [
       {
-        name: "Andrés Leiva",
-        description: "Soy un estudiante de ingeniería de software que disfruta trabajar dentro del ecosistema React, Nest js y Rust.",
-        githubUrl: "https://github.com/aleiva17",
-        linkedinUrl: "https://www.linkedin.com/in/aleiva17/"
-      },
-      {
-        name: "Nicolás Espinoza",
-        description: "Estudio ingeniería del software en la UPC desde 2021, por lo que me considero una persona creativa e imaginativa.",
-        githubUrl: "https://github.com/EspinozaNaer",
-        linkedinUrl: "https://www.linkedin.com/in/nicol%C3%A1s-espinoza-394b84225/"
+        name: "Alan Galavis",
+        description: "Soy un estudiante de ingeniería de software detallista y orientado al diseño. Mi objetivo es desarrollar soluciones de software funcionales y escalables.",
+        githubUrl: "https://github.com/alanegd",
+        linkedinUrl: "https://www.linkedin.com/in/alan-galavis/"
       },
       {
         name: "Andrés Soto",
-        description: "Soy un estudiante de ingeniería de software de la UPC capaz de trabajar bajo presión que disfruta generando soluciones utilizando la tecnología.",
+        description: "Soy capaz de trabajar bajo presión y resolver problemas eficientemente.",
         githubUrl: "https://github.com/asotito",
         linkedinUrl: "https://www.linkedin.com/in/andres-soto-0429a127b/"
       },
       {
         name: "Carlo Seminario",
-        description: "Estoy cursando la carrera de ingeniería de software y me considero una persona responsable, perseverante y capaz de trabajar bajo presión.",
+        description: "Soy capaz de identificar y proponer soluciones a problemas.",
         githubUrl: "https://github.com/CarloLSG",
         linkedinUrl: "https://www.linkedin.com/in/carlo-luca-seminario/"
       },
       {
-        name: "Alan Galavis",
-        description: "Estudio ingeniería del software en la UPC y considero que soy organizada, perseverante y creativa.",
-        githubUrl: "https://github.com/alanegd",
-        linkedinUrl: "https://www.linkedin.com/in/alan-galavis/"
-      }
+        name: "Eric Cuevas",
+        description: "Soy una persona responsable y colaborativa. He participado en proyectos de desarrollo front-end y back-end.",
+        githubUrl: "https://github.com/Ericcuevas03",
+        linkedinUrl: "http://www.linkedin.com/in/ericcuevasrios"
+      },
+      {
+        name: "Lucero Obispo",
+        description: "Me considero una persona empática, organizada y comprometida, lo que me permite colaborar exitosamente en proyectos de desarrollo de software en equipo.",
+        githubUrl: "https://github.com/LuceroObispoRios",
+        linkedinUrl: "http://www.linkedin.com/in/luceroobispo"
+      },
+      {
+        name: "Nicolás Espinoza",
+        description: "Estudio ingeniería del software en la UPC desde 2021. Me considero una persona creativa e imaginativa.",
+        githubUrl: "https://github.com/EspinozaNaer",
+        linkedinUrl: "https://www.linkedin.com/in/nicol%C3%A1s-espinoza-394b84225/"
+      },
     ]
   }
 }
